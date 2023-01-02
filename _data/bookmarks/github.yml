@@ -19,5 +19,9 @@ links:
     url: https://github.com/jeffreytse/jekyll-deploy-action
   - category: Github
     description: 'git rm - fatal: pathspec did not match any files'
-    tags: [git, error, stackoverflow]
+    tags: [git, issue, stackoverflow]
     url: https://stackoverflow.com/questions/25458306/git-rm-fatal-pathspec-did-not-match-any-files
+  - category: Git VSCode
+    description: 'vscode-git no ssh password popup: ssh permission denied publickey'
+    tags: [git, vscode, ssh, issue, stackoverflow]
+    url: https://stackoverflow.com/a/56579798/12296723
