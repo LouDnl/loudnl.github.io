@@ -1,0 +1,6 @@
+description: Markdown
+permalink: markdown
+links:
+  - category: Syntax
+    description: link formatting
+    url: https://stackoverflow.com/questions/4629675/jekyll-markdown-internal-links

@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<h1>{{ page.bookmarks.description }} - ({{ page.bookmarks.links | size }} bookmarks)</h1>
+
+
+{% assign bookmark_arr = page.bookmarks.links | sort_natural: 'category' %}
+{% assign bookmark_categories = bookmark_arr | map: 'category' | uniq %}
+
+
+{% for category in bookmark_categories %}
+<h5>Category: {{ category }}</h5>
+<ul>
+    {% for link in bookmark_arr %}
+        {% if link.category == category %}
+            <li><a target='_blank' href="{{ link.url }}">{{ link.description }}</a>, {{ link.url }}</li>
+        {% endif %}
+    {% endfor %}
+</ul>
+{% endfor %}

@@ -1,0 +1,39 @@
+description: Jekyll
+permalink: jekyll
+links:
+  - category: Install Config
+    description: _data folder
+    url: https://jekyllrb.com/docs/datafiles/
+  - category: Install Config
+    description: _includes folder
+    url: https://jekyllrb.com/docs/includes/
+  - category: Install Config
+    description: _posts folder
+    url: https://jekyllrb.com/docs/posts/
+  - category: Examples
+    description: simple image gallery
+    url: https://dmnfarrell.github.io/software/jekyll-galleries
+  - category: Docs
+    description: front matter
+    url: https://jekyllrb.com/docs/front-matter/
+  - category: Plugin
+    description: keys filter
+    url: https://github.com/MichaelCurrin/jekyll-keys-filter
+  - category: Cheatsheet
+    description: cheatsheet
+    url: https://learntheweb.courses/topics/jekyll-cheat-sheet/
+  - category: Tips
+    description: excerpt tag
+    url: https://gist.github.com/benbalter/5555369
+  - category: Stackoverflow
+    description: include markdown in markdown
+    url: https://stackoverflow.com/questions/41966638/jekyll-on-github-pages-include-markdown-in-another-markdown-file
+  - category: Stackoverflow
+    description: get most recent post
+    url: https://stackoverflow.com/questions/17890493/how-can-i-show-just-the-most-recent-post-on-my-home-page-with-jekyll
+  - category: Themes
+    description: hacker github
+    url: https://github.com/pages-themes/hacker
+  - category: Themes
+    description: hacker example
+    url: https://pages-themes.github.io/hacker/

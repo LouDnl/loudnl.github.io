@@ -1,0 +1,12 @@
+description: Liquid
+permalink: liquid
+links:
+  - category: Syntax
+    description: Array method references
+    url: https://shopify.dev/api/liquid/filters/array-filters
+  - category: Syntax
+    description: Method references
+    url: https://shopify.dev/api/liquid/
+  - category: Syntax
+    description: Method references
+    url: https://shopify.github.io/liquid/
