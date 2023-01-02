@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   My awesome github.io page full of whatever
 show_downloads: false
 # goole_analytics: 123456789
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://loudnl.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 mastodon_username: loudfpv@mastodon.social
 github_username:  loudnl
