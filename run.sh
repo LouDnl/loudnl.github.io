@@ -1,0 +1,1 @@
+sh -c "bundle exec jekyll serve --port 8888 --verbose --trace"

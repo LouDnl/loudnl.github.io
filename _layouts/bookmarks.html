@@ -14,7 +14,8 @@ layout: default
 <ul>
     {% for link in bookmark_arr %}
         {% if link.category == category %}
-            <li><a target='_blank' href="{{ link.url }}">{{ link.description }}</a>, {{ link.url }}</li>
+            <li><a target='_blank' href="{{ link.url }}">{{ link.description }}</a>, <small>{{ link.url }}</small></li>
+            <small><i>tags: {{ link.tags | sort_natural | join: ', ' }}</i></small>
         {% endif %}
     {% endfor %}
 </ul>

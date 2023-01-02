@@ -6,7 +6,7 @@ permalink: /bookmarks/
 <h2>LouD - links to my sites / socials</h2>
 <ul>
     <li>
-        <a href="">{{ site.data.bookmarks.loud.description }}</a>
+        <a href="/bookmarks/loud">{{ site.data.bookmarks.loud.description }}</a>
         ({{ site.data.bookmarks.loud.links | size }} bookmarks)
     </li>
 </ul>

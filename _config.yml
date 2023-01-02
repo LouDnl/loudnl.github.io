@@ -31,7 +31,7 @@ github_username:  loudnl
 # Build settings
 url: "https://loudnl.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/" # the subpath of your site, e.g. /blog
-show_downloads: false
+show_downloads: true
 # goole_analytics: 123456789
 
 theme: minima
@@ -55,6 +55,9 @@ exclude:
   - gemfiles/
   - Gemfile
   - Gemfile.lock
+  - README.md
+  - run.sh
+  - '*.code-workspace'
   - node_modules/
   - vendor/bundle/
   - vendor/cache/

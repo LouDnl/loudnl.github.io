@@ -3,4 +3,9 @@ permalink: markdown
 links:
   - category: Syntax
     description: link formatting
+    tags: [stackoverflow, markdown, jekyll, syntax]
     url: https://stackoverflow.com/questions/4629675/jekyll-markdown-internal-links
+  - category: Syntax
+    description: link formatting
+    tags: [stackoverflow, markdown, jekyll, syntax]
+    url: https://stackoverflow.com/questions/4425198/can-i-create-links-with-target-blank-in-markdown

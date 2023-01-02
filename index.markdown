@@ -5,5 +5,5 @@
 layout: default
 ---
 
-{% include_relative posts-frontpage.markdown %}
+{% include posts-frontpage.markdown %}
 

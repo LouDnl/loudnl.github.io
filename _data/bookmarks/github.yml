@@ -3,7 +3,21 @@ permalink: git
 links:
   - category: Github Pages
     description: main website
+    tags: [pages.github.io]
     url: https://pages.github.com/
   - category: Github Pages
     description: no api authentication could be found
+    tags: [pages.github.io, configuration]
     url: https://josephtingiris.github.io/jekyll/github/metadata/2017/10/15/no-github-api-authentication-could-be-found/
+  - category: Github Pages
+    description: 'error: your site could not be built: no repo name found'
+    tags: [pages.github.io, configuration]
+    url: https://talk.jekyllrb.com/t/error-your-site-could-not-be-built-no-repo-name-found/5688/3
+  - category: Github Pages
+    description: build workflow for external plugins
+    tags: [pages.github.io, configuration, github-actions, github-workflow]
+    url: https://github.com/jeffreytse/jekyll-deploy-action
+  - category: Github
+    description: 'git rm - fatal: pathspec did not match any files'
+    tags: [git, error, stackoverflow]
+    url: https://stackoverflow.com/questions/25458306/git-rm-fatal-pathspec-did-not-match-any-files
